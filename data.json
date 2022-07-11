@@ -43,7 +43,7 @@
         "name": "Bitwarden",
         "author":"Bitwarde Inc.",
         "description":"适用于个人、团队和商业组织的开源密码管理解决方案。",
-        "logo":"https://gcore.jsdelivr.net/gh/bitwarden/browser@master/src/images/icon128.png",
+        "logo":"https://gcore.jsdelivr.net/gh/bitwarden/mobile@master/src/Android/Resources/mipmap-xxxhdpi/ic_launcher.png",
         "cwsurl": "https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb",
         "officialurl": "https://bitwarden.com/",
         "githuburl":"https://github.com/bitwarden/browser",
