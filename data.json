@@ -125,7 +125,7 @@
         "description": "下载Edge拓展商店的拓展，下载方法参考文档",
         "logo": "https://gcore.jsdelivr.net/gh/muzihuaner/huancdn/img/20210819114118.png",
         "cwsurl": "",
-        "officialurl": "https://cdn.jsdelivr.net/gh/muzihuaner/kiwibrowsercn@main/Extensions/download_edge_store_addons.crx",
+        "officialurl": "https://cdn.jsdelivr.net/gh/kiwibrowsercn/Extensions@main/down/download_edge_store_addons.crx",
         "githuburl": "",
         "category": "开发者工具"
     }
